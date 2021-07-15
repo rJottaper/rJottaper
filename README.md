@@ -2,7 +2,7 @@
 
 My name is João Pedro
 
-I'm A Computer Science, that has been studying as a Mobile Developer since 2020.  💻
+I'm A Computer Science Student, that has been studying as a Mobile Developer since 2020.  💻
 
 Always open to new challenges and ready to face changes.
 
